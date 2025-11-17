@@ -2,7 +2,7 @@
 
 Transfer-learned YOLOv3 model for automated detection and verification of UML Use Case diagram elements to ensure coverage with textual use case scenarios.
 
-**Authors**: Timothy Elvira, Lynn Vonder Haar, [Carbo]
+**Authors**: Timothy Elvira, Lynn Vonder Haar, Priscilla Carbo
 
 ## Overview
 
@@ -10,8 +10,9 @@ This project fine-tunes YOLOv3 for object detection on UML Use Case diagrams, en
 
 ### Example Detection
 
-![Example Use Case Diagram Detection](path/to/example_image.png)
-*YOLOv3 detection results showing identified actors (green), use cases (magenta), includes (blue), and extends (red) relationships.*
+![Example Use Case Diagram Detection](https://github.com/user-attachments/assets/283c91fb-ac9a-4ed9-a61f-9609293f710b)
+
+*YOLOv3 detection results showing identified actors (green), use cases (magenta), and extends (red) relationships.*
 
 ## Problem Statement
 
